@@ -9,17 +9,16 @@ YCbCr Matrix: TV.601
 PlayResX: 960
 PlayResY: 718
 Audio URI: Impractical.Jokers.S03E14.Make.Womb.for.Daddy.720p.WEB-DL.AAC2.0.h.264-NTb.mkv
-Aegisub Scroll Position: 0
-Aegisub Active Line: 18
+Aegisub Scroll Position: 19
+Aegisub Active Line: 29
 Aegisub Video Zoom Percent: 0.500000
 Video File: Impractical.Jokers.S03E14.Make.Womb.for.Daddy.720p.WEB-DL.AAC2.0.h.264-NTb.mkv
 Aegisub Video Aspect Ratio: c1.782730
-Aegisub Video Position: 2147
+Aegisub Video Position: 2674
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -31,28 +30,28 @@ Dialogue: 0,0:00:24.59,0:00:27.45,Default,,0,0,0,,Q
 Dialogue: 0,0:00:27.46,0:00:30.76,Default,,0,0,0,,Murr
 Dialogue: 0,0:00:30.76,0:00:33.98,Default,,0,0,0,,Sal
 Dialogue: 0,0:00:34.02,0:00:36.96,Default,,0,0,0,,Joe
-Dialogue: 0,0:00:40.12,0:00:44.06,Default,,0,0,0,,Today, we are teaming up at America's sub shop, Blimpie!
-Dialogue: 0,0:00:44.06,0:00:46.14,Default,,0,0,0,,While helping customers get their sandwich on
-Dialogue: 0,0:00:46.14,0:00:47.84,Default,,0,0,0,,We'll have to do and say what the other guys tell us.
-Dialogue: 0,0:00:47.84,0:00:49.74,Default,,0,0,0,,If you refuse anything, you lose!
-Dialogue: 0,0:00:49.74,0:00:53.68,Default,,0,0,0,,Carve up, fellas!  It's go time!
-Dialogue: 0,0:00:57.82,0:01:00.22,Default,,0,0,0,,Joe, stab Murray in his throat.
-Dialogue: 0,0:01:00.22,0:01:04.19,Default,,0,0,0,,No, no, no, no, no, no, no, no.
-Dialogue: 0,0:01:04.19,0:01:05.23,Default,,0,0,0,,I don't want to lose.
-Dialogue: 0,0:01:05.23,0:01:06.76,Default,,0,0,0,,You refuse -- refuse that.
-Dialogue: 0,0:01:06.76,0:01:08.60,Default,,0,0,0,, I can't lose.
-Dialogue: 0,0:01:10.18,0:01:11.72,Default,,0,0,0,,Welcome to Blimpie. How are you?
-Dialogue: 0,0:01:11.72,0:01:12.38,Default,,0,0,0,, Hey, how's it going?
-Dialogue: 0,0:01:12.38,0:01:15.06,Default,,0,0,0,,Since it's a mother-daughter combo, we're gonna go easy on you guys.
-Dialogue: 0,0:01:15.06,0:01:16.56,Default,,0,0,0,,Just bump into each other a lot.
-Dialogue: 0,0:01:16.56,0:01:18.14,Default,,0,0,0,,I'm gonna get the Blimpie best.
-Dialogue: 0,0:01:18.14,0:01:19.82,Default,,0,0,0,,—Half-inch?  —Yes.
-Dialogue: 0,0:01:20.02,0:01:21.48,Default,,0,0,0,,Oh, I'm sorry.
-Dialogue: 0,0:01:24.11,0:01:24.71,Default,,0,0,0,,Oh, I'm sorry.
-Dialogue: 0,0:01:24.71,0:01:25.61,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:01:25.61,0:01:28.20,Default,,0,0,0,,What's on the French Dip?
-Dialogue: 0,0:01:28.20,0:01:29.22,Default,,0,0,0,,French Dip?
-Dialogue: 0,0:01:29.22,0:01:33.62,Default,,0,0,0,,We usually do Swiss... with the roast beef.
+Dialogue: 0,0:00:40.12,0:00:44.06,Default,,0,0,0,,Сегодня мы собрались в Блимби
+Dialogue: 0,0:00:44.06,0:00:46.14,Default,,0,0,0,,Помогая покупателям взять сендвич
+Dialogue: 0,0:00:46.14,0:00:47.84,Default,,0,0,0,,Мы должны делать то, что нам говорят
+Dialogue: 0,0:00:47.84,0:00:49.74,Default,,0,0,0,,Если откажешься — проиграешь
+Dialogue: 0,0:00:49.74,0:00:53.68,Default,,0,0,0,,Приготовьтесь, парни
+Dialogue: 0,0:00:57.82,0:01:00.22,Default,,0,0,0,,Джо, проткни Мурру горло
+Dialogue: 0,0:01:00.22,0:01:04.19,Default,,0,0,0,,не не не
+Dialogue: 0,0:01:04.19,0:01:05.23,Default,,0,0,0,,Я не хочу проигрывать
+Dialogue: 0,0:01:05.23,0:01:06.76,Default,,0,0,0,,откажись, откажись
+Dialogue: 0,0:01:06.76,0:01:08.60,Default,,0,0,0,,Я не могу проиграть
+Dialogue: 0,0:01:10.18,0:01:11.72,Default,,0,0,0,,Добро пожаловать в блимпи
+Dialogue: 0,0:01:11.72,0:01:12.38,Default,,0,0,0,,Привет
+Dialogue: 0,0:01:12.38,0:01:15.06,Default,,0,0,0,,Так как это мама и дочь, мы будем с вами полегче
+Dialogue: 0,0:01:15.06,0:01:16.56,Default,,0,0,0,,просто врезайтесь друг в друга
+Dialogue: 0,0:01:16.56,0:01:18.14,Default,,0,0,0,,Я возьму Блимпи бест
+Dialogue: 0,0:01:18.14,0:01:19.82,Default,,0,0,0,,- полдюйма?\N\N- Да
+Dialogue: 0,0:01:20.02,0:01:21.48,Default,,0,0,0,,прости
+Dialogue: 0,0:01:24.11,0:01:24.71,Default,,0,0,0,,извини
+Dialogue: 0,0:01:24.71,0:01:25.61,Default,,0,0,0,,извини
+Dialogue: 0,0:01:25.61,0:01:28.20,Default,,0,0,0,,Что на французской тарелке?
+Dialogue: 0,0:01:28.20,0:01:29.22,Default,,0,0,0,,французской тарелке?
+Dialogue: 0,0:01:29.22,0:01:33.62,Default,,0,0,0,,Обычно кладем Швейцарский… с мясом
 Dialogue: 0,0:01:33.62,0:01:35.54,Default,,0,0,0,,It's on the Ciabatta bread... I'm sorry.
 Dialogue: 0,0:01:35.98,0:01:38.50,Default,,0,0,0,,Ciabatta bread, typically.
 Dialogue: 0,0:01:38.52,0:01:40.24,Default,,0,0,0,,The daughter's starting to pick up on it.
