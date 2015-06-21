@@ -9,12 +9,12 @@ YCbCr Matrix: TV.601
 PlayResX: 960
 PlayResY: 718
 Audio URI: Impractical.Jokers.S03E14.Make.Womb.for.Daddy.720p.WEB-DL.AAC2.0.h.264-NTb.mkv
-Aegisub Scroll Position: 361
-Aegisub Active Line: 372
+Aegisub Scroll Position: 0
+Aegisub Active Line: 0
 Aegisub Video Zoom Percent: 0.500000
 Video File: Impractical.Jokers.S03E14.Make.Womb.for.Daddy.720p.WEB-DL.AAC2.0.h.264-NTb.mkv
 Aegisub Video Aspect Ratio: c1.782730
-Aegisub Video Position: 35747
+Aegisub Video Position: 201
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,14 +22,10 @@ Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.02,0:00:12.44,Default,,0,0,0,,Coming up, what has Joe and Murr jumping for joy?
-Dialogue: 0,0:00:12.44,0:00:15.38,Default,,0,0,0,,Why is Sal all smiles?
-Dialogue: 0,0:00:15.38,0:00:21.13,Default,,0,0,0,,And why is tonight's big loser throwing temper tantrum?
-Dialogue: 0,0:00:22.08,0:00:24.59,Default,,0,0,0,,Prepare for something amazing.
-Dialogue: 0,0:00:24.59,0:00:27.45,Default,,0,0,0,,Q
-Dialogue: 0,0:00:27.46,0:00:30.76,Default,,0,0,0,,Murr
-Dialogue: 0,0:00:30.76,0:00:33.98,Default,,0,0,0,,Sal
-Dialogue: 0,0:00:34.02,0:00:36.96,Default,,0,0,0,,Joe
+Dialogue: 0,0:00:00.00,0:00:06.72,Default,,0,0,0,,ВНИМАНИЕ!\N следующая программа содержит сцены наглядной тупости среди 4 друзей которые соревнуются чтобы устыдить друг друга
+Dialogue: 0,0:00:07.02,0:00:12.44,Default,,0,0,0,,Что заставило Джо и Мурра прыгать от радости
+Dialogue: 0,0:00:12.44,0:00:15.38,Default,,0,0,0,,Почему Сал улыбается
+Dialogue: 0,0:00:15.38,0:00:21.13,Default,,0,0,0,,почему проигравший закатывает скандал
 Dialogue: 0,0:00:40.12,0:00:44.06,Default,,0,0,0,,Сегодня мы собрались в Блимби
 Dialogue: 0,0:00:44.06,0:00:46.14,Default,,0,0,0,,Помогая покупателям взять сендвич
 Dialogue: 0,0:00:46.14,0:00:47.84,Default,,0,0,0,,Мы должны делать то, что нам говорят
@@ -393,5 +389,6 @@ Dialogue: 0,0:19:20.98,0:19:23.94,Default,,0,0,0,,помните дышать!
 Dialogue: 0,0:19:23.98,0:19:29.66,Default,,0,0,0,,о боже! Прошу тебя.
 Dialogue: 0,0:19:29.66,0:19:34.48,Default,,0,0,0,,Хватит! Что с тобой?
 Dialogue: 0,0:19:35.02,0:19:36.78,Default,,0,0,0,,Вот и всё. У вас был ребёнок.
-Dialogue: 0,0:19:39.88,0:19:45.42,Default,,0,0,0,,Теперь начинается тяжелая часть — как его назвать.
+Dialogue: 0,0:19:39.88,0:19:43.56,Default,,0,0,0,,Теперь начинается тяжелая часть…
+Dialogue: 0,0:19:43.56,0:19:45.56,Default,,0,0,0,,как его назвать
 Dialogue: 0,0:19:49.90,0:19:52.82,Default,,0,0,0,,Твоё наказание закончилось. Молодец.
