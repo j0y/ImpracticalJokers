@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 624
+PlayResY: 352
+Scroll Position: 0
+Active Line: 11
+Video Zoom Percent: 1
+Video File: S01E12.avi
+Video Aspect Ratio: c1.77273
+Video Position: 801
+Audio URI: S01E12.avi
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.98,Default,,0,0,0,,ВНИМАНИЕ!\N  следующая программа содержит сцены наглядной тупости среди 4 друзей которые соревнуются чтобы устыдить друг друга
+Dialogue: 0,0:00:06.68,0:00:07.20,Default,,0,0,0,,сегодня
+Dialogue: 0,0:00:07.20,0:00:07.90,Default,,0,0,0,,вы должны это увидеть
+Dialogue: 0,0:00:07.90,0:00:10.16,Default,,0,0,0,,парни заставляют Джо играть в пятки
+Dialogue: 0,0:00:10.16,0:00:11.08,Default,,0,0,0,,серьёзно
+Dialogue: 0,0:00:11.96,0:00:13.44,Default,,0,0,0,,перлезь к сиденью через неё
+Dialogue: 0,0:00:13.44,0:00:15.58,Default,,0,0,0,,Сал становится основой шутки
+Dialogue: 0,0:00:15.58,0:00:16.90,Default,,0,0,0,,его задница прямо перед её лицом
+Dialogue: 0,0:00:17.06,0:00:19.00,Default,,0,0,0,,а Кью обмочился
+Dialogue: 0,0:00:19.00,0:00:20.38,Default,,0,0,0,,у меня шампунь в глазу
+Dialogue: 0,0:00:21.28,0:00:22.02,Default,,0,0,0,,всё нормально?
+Dialogue: 0,0:00:22.02,0:00:24.02,Default,,0,0,0,,
