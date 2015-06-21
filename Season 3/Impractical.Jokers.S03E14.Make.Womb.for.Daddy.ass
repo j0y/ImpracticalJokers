@@ -9,12 +9,12 @@ YCbCr Matrix: TV.601
 PlayResX: 960
 PlayResY: 718
 Audio URI: Impractical.Jokers.S03E14.Make.Womb.for.Daddy.720p.WEB-DL.AAC2.0.h.264-NTb.mkv
-Aegisub Scroll Position: 141
-Aegisub Active Line: 151
+Aegisub Scroll Position: 153
+Aegisub Active Line: 164
 Aegisub Video Zoom Percent: 0.500000
 Video File: Impractical.Jokers.S03E14.Make.Womb.for.Daddy.720p.WEB-DL.AAC2.0.h.264-NTb.mkv
 Aegisub Video Aspect Ratio: c1.782730
-Aegisub Video Position: 14224
+Aegisub Video Position: 15520
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -173,19 +173,19 @@ Dialogue: 0,0:07:47.16,0:07:47.66,Default,,0,0,0,,Как тебя зовут?
 Dialogue: 0,0:07:47.66,0:07:48.18,Default,,0,0,0,,Джозеф
 Dialogue: 0,0:07:48.18,0:07:51.24,Default,,0,0,0,,Друзья меня зовут Мурр. Как тебя?
 Dialogue: 0,0:07:51.26,0:07:52.04,Default,,0,0,0,,
-Dialogue: 0,0:07:52.06,0:07:54.70,Default,,0,0,0,,That's not a bad one, but doesn't really fit you well.
-Dialogue: 0,0:07:56.42,0:07:57.76,Default,,0,0,0,,All right, Murr.
-Dialogue: 0,0:07:58.32,0:08:00.26,Default,,0,0,0,,All right, this game's impossible.
-Dialogue: 0,0:08:01.78,0:08:03.86,Default,,0,0,0,,What, do you want me to try on his chicken?
-Dialogue: 0,0:08:04.64,0:08:06.86,Default,,0,0,0,,What the hell doesn't fit you well? Uh...
-Dialogue: 0,0:08:07.04,0:08:09.84,Default,,0,0,0,,Oh, he's stuck on "fit you well."
-Dialogue: 0,0:08:12.94,0:08:14.18,Default,,0,0,0,,Where did you get the hat?
-Dialogue: 0,0:08:14.18,0:08:16.84,Default,,0,0,0,,'cause there's Lids right there. They have the store right there for the hats.
-Dialogue: 0,0:08:18.70,0:08:20.30,Default,,0,0,0,,Oh, this is a disaster.
-Dialogue: 0,0:08:20.30,0:08:21.56,Default,,0,0,0,,Is this a snapback hat?
-Dialogue: 0,0:08:22.36,0:08:23.58,Default,,0,0,0,,Can I see?
-Dialogue: 0,0:08:30.34,0:08:32.10,Default,,0,0,0,,I hope that was it.
-Dialogue: 0,0:08:32.58,0:08:34.48,Default,,0,0,0,,No way near right.
+Dialogue: 0,0:07:52.06,0:07:54.70,Default,,0,0,0,,Неплохое, но не очень подходит
+Dialogue: 0,0:07:56.42,0:07:57.76,Default,,0,0,0,,молодец, Мурр
+Dialogue: 0,0:07:58.32,0:08:00.26,Default,,0,0,0,,эта игра невозможна
+Dialogue: 0,0:08:01.78,0:08:03.86,Default,,0,0,0,,Что, ты хочешь, чтобы я попробовал его курицу?
+Dialogue: 0,0:08:04.64,0:08:06.86,Default,,0,0,0,,Что тебе не подходит?
+Dialogue: 0,0:08:07.04,0:08:09.84,Default,,0,0,0,,он застрял на "подходит"
+Dialogue: 0,0:08:12.94,0:08:14.18,Default,,0,0,0,,Где ты взял эту кепку?
+Dialogue: 0,0:08:14.18,0:08:16.84,Default,,0,0,0,,там есть Lids. У них магазин кепок
+Dialogue: 0,0:08:18.70,0:08:20.30,Default,,0,0,0,,это катастрофа
+Dialogue: 0,0:08:20.30,0:08:21.56,Default,,0,0,0,,это кепка snapback?
+Dialogue: 0,0:08:22.36,0:08:23.58,Default,,0,0,0,,можно посмотреть?
+Dialogue: 0,0:08:30.34,0:08:32.10,Default,,0,0,0,,недуюсь это оно
+Dialogue: 0,0:08:32.58,0:08:34.48,Default,,0,0,0,,не правильно
 Dialogue: 0,0:08:34.50,0:08:37.86,Default,,0,0,0,,Hey, do you know if there's any place that serves applesauce around here
 Dialogue: 0,0:08:37.86,0:08:39.82,Default,,0,0,0,,or anything that goes with it?
 Dialogue: 0,0:08:42.84,0:08:44.36,Default,,0,0,0,,Applesauce?
